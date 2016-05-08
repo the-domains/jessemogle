@@ -4,7 +4,7 @@
         <description><![CDATA[JesseMogle]]></description>
         <link>https://thegrid.ai/jessemogle/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 08 May 2016 21:42:31 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 May 2016 22:07:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/jessemogle/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -15,24 +15,10 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>https://youtu.be/PSH7OVKmPT0</p>]]></description>
-            <link>https://thegrid.ai/jessemogle/httpsyoutubepsh7ovkmpt0/index.html</link>
-            <guid isPermaLink="false">698caa01-d883-4c2e-afea-b847887d62b7</guid>
-            <pubDate>Sun, 08 May 2016 20:54:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/02c94e36-88b2-446c-9aa6-7156694d4dbc.png">]]></description>
             <link>https://thegrid.ai/jessemogle/2ac5859c-4f5c-4751-99fb-d38119513533/index.html</link>
             <guid isPermaLink="false">2ac5859c-4f5c-4751-99fb-d38119513533</guid>
             <pubDate>Sun, 08 May 2016 20:39:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>this is just a test</p>]]></description>
-            <link>https://thegrid.ai/jessemogle/this-is-just-a-test/index.html</link>
-            <guid isPermaLink="false">8f5fd338-c3ba-4005-827d-2c8d4f15050c</guid>
-            <pubDate>Sun, 08 May 2016 20:36:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
