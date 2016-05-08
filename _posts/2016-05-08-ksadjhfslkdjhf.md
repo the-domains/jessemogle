@@ -1,12 +1,12 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ksadjhfslkdjhf
-datePublished: '2016-05-08T21:33:06.215Z'
-dateModified: '2016-05-08T21:32:20.854Z'
+datePublished: '2016-05-08T21:41:57.439Z'
+dateModified: '2016-05-08T21:41:24.526Z'
 title: ''
 author:
   - name: ''
@@ -20,7 +20,7 @@ publisher:
   favicon: null
 starred: false
 url: ksadjhfslkdjhf/index.html
-_type: Article
+_type: WebPage
 
 ---
 ksadjhfslkdjhf
