@@ -1,6 +1,6 @@
 name: JesseMogle
 favicon: null
-layout_spectrum: 0.2627
+layout_spectrum: 1
 typography_spectrum: 0.53124
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#1cadcf'
     - '#fba946'
     - '#537958'
-  brandStrength: 0.6875
+  brandStrength: 0.875
   lightness: 0.75
   saturation: 0.25
   rhythmicContrast: 0.75
