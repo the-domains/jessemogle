@@ -5,12 +5,13 @@ inNav: false
 inLanguage: null
 keywords: []
 description: "Everything's Interesting"
-datePublished: '2016-05-08T22:22:36.446Z'
-dateModified: '2016-05-08T22:15:02.608Z'
+datePublished: '2016-05-08T22:23:06.282Z'
+dateModified: '2016-05-08T22:22:39.165Z'
 title: everything is interesting
 author:
   - name: ''
     url: ''
+sourcePath: _posts/2016-05-08-everything-is-interesting.md
 authors: []
 publisher:
   name: null
@@ -18,7 +19,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-08-everything-is-interesting.md
 url: everything-is-interesting/index.html
 _type: Article
 
